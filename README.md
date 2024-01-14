@@ -1,2 +1,2 @@
 A student learning programming.
-Starting my journy with python.
+Starting my journey with python.
